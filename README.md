@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DailyDev99 or @Alex, this is a new account so I can start from the beginning!
+- 👀 I’m interested in literally EVERYTHING
+- 🌱 I’m currently learning Python for Machine Learning
+- 🤖 I have written automation scripts since 2014 for many games, but mostly Old School Runescape
